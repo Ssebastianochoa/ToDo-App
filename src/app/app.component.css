@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+    color: rgb(14, 44, 129);
+}
+.task-list{
+    width: 500px;
+    margin: auto;
+    max-width: 100%;
+}
+.agregar-target {
+    width: 500px;
+    margin: auto;
+    max-width: 100%;
+}
